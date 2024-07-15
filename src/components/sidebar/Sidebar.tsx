@@ -5,7 +5,7 @@ import { SidebarLinkItem } from './SidebarLinkItem';
 import { useUIStore } from '@/store';
 import clsx from 'clsx';
 import { FaHome, FaTree } from 'react-icons/fa';
-import { MdHistoryEdu } from 'react-icons/md';
+import { MdHistoryEdu, MdMapsUgc } from 'react-icons/md';
 
 export const Sidebar = () => {
 
@@ -72,6 +72,11 @@ export const Sidebar = () => {
                     path='/ecologic-science'
                     icon={<FaTree size={30}/>}
                     label='Ecología'
+                />
+                <SidebarLinkItem 
+                    path='/suggestions'
+                    icon={<MdMapsUgc size={30}/>}
+                    label='Sugerencias'
                 />
 
                 {/* Line Separator */}

@@ -188,3 +188,66 @@ export const histories = [
         date_story: '2015-03-01T00:00:00Z'
     }
 ];
+
+export const suggestions = [
+    {
+        'id': '1',
+        'author': 'Greta Thunberg',
+        'title': 'Reducir el uso de combustibles fósiles',
+        'description': 'Una de las maneras más efectivas de combatir el cambio climático es reducir el uso de combustibles fósiles y cambiar a fuentes de energía renovables.'
+    },
+    {
+        'id': '2',
+        'author': 'David Attenborough',
+        'title': 'Proteger la biodiversidad',
+        'description': 'Es crucial proteger la biodiversidad y los hábitats naturales para mantener el equilibrio ecológico y asegurar la supervivencia de diversas especies.'
+    },
+    {
+        'id': '3',
+        'author': 'Jane Goodall',
+        'title': 'Conservar los bosques y la vida silvestre',
+        'description': 'La conservación de los bosques y la vida silvestre es esencial para preservar los ecosistemas y las especies que dependen de ellos.'
+    },
+    {
+        'id': '4',
+        'author': 'Leonardo DiCaprio',
+        'title': 'Promover la energía limpia',
+        'description': 'Invertir en energía limpia y sostenible es una solución clave para reducir las emisiones de carbono y proteger el medio ambiente.'
+    },
+    {
+        'id': '5',
+        'author': 'Wangari Maathai',
+        'title': 'Plantar árboles',
+        'description': 'Plantar árboles es una manera efectiva de combatir la deforestación, mejorar la calidad del aire y mitigar el cambio climático.'
+    },
+    {
+        'id': '6',
+        'author': 'Al Gore',
+        'title': 'Aumentar la conciencia pública sobre el cambio climático',
+        'description': 'Educando al público sobre los efectos del cambio climático, podemos fomentar acciones colectivas para proteger el planeta.'
+    },
+    {
+        'id': '7',
+        'author': 'Vanessa Nakate',
+        'title': 'Apoyar a las comunidades vulnerables',
+        'description': 'Es importante apoyar a las comunidades más afectadas por el cambio climático y trabajar juntos para crear soluciones sostenibles.'
+    },
+    {
+        'id': '8',
+        'author': 'Sylvia Earle',
+        'title': 'Proteger los océanos',
+        'description': 'Los océanos son vitales para la vida en la Tierra. Debemos tomar medidas para protegerlos de la contaminación y la sobreexplotación.'
+    },
+    {
+        'id': '9',
+        'author': 'George Monbiot',
+        'title': 'Promover una dieta basada en plantas',
+        'description': 'Adoptar una dieta basada en plantas puede reducir significativamente la huella de carbono y preservar los recursos naturales.'
+    },
+    {
+        'id': '10',
+        'author': 'Christiana Figueres',
+        'title': 'Implementar políticas ambientales',
+        'description': 'Es crucial que los gobiernos implementen políticas ambientales estrictas para reducir las emisiones de gases de efecto invernadero y promover la sostenibilidad.'
+    }
+];

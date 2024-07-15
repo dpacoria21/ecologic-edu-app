@@ -24,6 +24,7 @@ export const TopMenu = () => {
                 <Link className='m-2 p-2 rounded-md transition-all hover:bg-gray-100' href={'/'}>Inicio</Link>
                 <Link className='m-2 p-2 rounded-md transition-all hover:bg-gray-100' href={'/histories'}>Historias</Link>
                 <Link className='m-2 p-2 rounded-md transition-all hover:bg-gray-100' href={'/ecologic-science'}>Ecología</Link>
+                <Link className='m-2 p-2 rounded-md transition-all hover:bg-gray-100' href={'/suggestions'}>Sugerencias</Link>
             </div>
 
             {/* Search, Cart, Menu */}

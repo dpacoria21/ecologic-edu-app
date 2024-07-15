@@ -3,7 +3,7 @@ import Image from 'next/image';
 interface Props {
     title: string,
     description: string,
-    date_story: Date,
+    date_story?: Date,
     author: string,
 }
 
@@ -13,7 +13,7 @@ export default function CardUser({ title, description, date_story, author }: Pro
         <figure className="flex flex-col items-center justify-center p-8 text-center bg-green-300 border-b border-gray-100 md:border-e dark:bg-gray-800 dark:border-gray-700">
             <blockquote className="max-w-2xl mx-auto mb-4 text-gray-700 lg:mb-8 dark:text-gray-400">
                 <h3 className="text-lg font-semibold text-gray-900 dark:text-white">{title}</h3>
-                <h3 className="text-lg font-semibold text-gray-900 dark:text-white">{new Date(date_story).toLocaleDateString('es-ES', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}</h3>
+                <h3 className="text-lg font-semibold text-gray-900 dark:text-white">{!date_story ? '' : new Date(date_story).toLocaleDateString('es-ES', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}</h3>
                 <p className="my-4">{description}</p>
                 <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href='https://www.google.com/' target='_blank'>Para más información</a>
             </blockquote>
