@@ -6,7 +6,7 @@ import { Chrono as ChronoType } from 'react-chrono';
 import dynamic from 'next/dynamic';
 import Loading from '../loading';
 
-export const Chrono = dynamic(() => import('react-chrono').then(lib => lib.Chrono), {
+const Chrono = dynamic(() => import('react-chrono').then(lib => lib.Chrono), {
     ssr: false,
     loading: () => <Loading />
 }) as typeof ChronoType;
