@@ -5,9 +5,10 @@ interface Props {
     description: string,
     date_story?: Date,
     author: string,
+    url: string,
 }
 
-export default function CardUser({ title, description, date_story, author }: Props) {
+export default function CardUser({ title, description, date_story, author, url }: Props) {
 
     return (
         <figure className="flex flex-col items-center justify-center p-8 text-center bg-green-300 border-b border-gray-100 md:border-e dark:bg-gray-800 dark:border-gray-700">
@@ -15,10 +16,9 @@ export default function CardUser({ title, description, date_story, author }: Pro
                 <h3 className="text-lg font-semibold text-gray-900 dark:text-white">{title}</h3>
                 <h3 className="text-lg font-semibold text-gray-900 dark:text-white">{!date_story ? '' : new Date(date_story).toLocaleDateString('es-ES', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}</h3>
                 <p className="my-4">{description}</p>
-                <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href='https://www.google.com/' target='_blank'>Para más información</a>
+                <a className="font-medium text-blue-600 dark:text-blue-500 hover:underline" href={url} target='_blank'>Para más información</a>
             </blockquote>
             <figcaption className="flex items-center justify-center ">
-                {/* <img className="rounded-full w-9 h-9" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/karen-nelson.png" alt="profile picture"> */}
                 <Image
                     alt="User-Photo"
                     src={'https://static.vecteezy.com/system/resources/thumbnails/008/442/086/small_2x/illustration-of-human-icon-user-symbol-icon-modern-design-on-blank-background-free-vector.jpg'}

@@ -2,7 +2,7 @@ export const items = [
     {
         'title': 'Efecto Invernadero',
         'cardTitle': 'El Impacto del Efecto Invernadero',
-        'url': 'https://www.climatecentral.org/what-we-do/our-programs/greenhouse-effect',
+        'url': 'https://espanol.epa.gov/la-energia-y-el-medioambiente/descripcion-general-de-los-gases-de-efecto-invernadero',
         'cardSubtitle': 'El aumento de gases de efecto invernadero en la atmósfera.',
         'cardDetailedText': 'El efecto invernadero es un proceso natural que calienta la superficie de la Tierra. Sin embargo, actividades humanas como la quema de combustibles fósiles han aumentado la concentración de estos gases, causando un calentamiento global acelerado.',
         'media': {
@@ -15,7 +15,7 @@ export const items = [
     {
         'title': 'Fenómeno del Niño',
         'cardTitle': 'El Fenómeno del Niño',
-        'url': 'https://www.noaa.gov/education/resource-collections/weather-atmosphere/el-nino',
+        'url': 'https://www.eird.org/fulltext/ABCDesastres/teoria/elninio.htm',
         'cardSubtitle': 'Un evento climático que altera los patrones meteorológicos.',
         'cardDetailedText': 'El Niño es una fase cálida del ciclo climático conocido como El Niño-Oscilación del Sur (ENSO), caracterizado por un calentamiento anómalo de las aguas del océano Pacífico oriental tropical, lo que impacta los patrones climáticos a nivel global.',
         'media': {
@@ -28,7 +28,7 @@ export const items = [
     {
         'title': 'El Ciclo del Agua',
         'cardTitle': 'La Importancia del Ciclo del Agua',
-        'url': 'https://www.nationalgeographic.org/encyclopedia/water-cycle/',
+        'url': 'https://www.ulima.edu.pe/idic/blog/el-ciclo-del-agua-y-la-resiliencia-de-los-ecosistemas#:~:text=El%20ciclo%20del%20agua%20es,clim%C3%A1tico%20(Ripl%2C%202003).',
         'cardSubtitle': 'El movimiento continuo del agua en, sobre y debajo de la superficie de la Tierra.',
         'cardDetailedText': 'El ciclo del agua describe cómo el agua se mueve a través de la atmósfera, la superficie de la Tierra y los cuerpos de agua, impulsado por la energía solar y la gravedad. Es esencial para la vida en la Tierra.',
         'media': {
@@ -41,7 +41,7 @@ export const items = [
     {
         'title': 'Deshielo de los Glaciares',
         'cardTitle': 'El Rápido Deshielo de los Glaciares',
-        'url': 'https://www.nationalgeographic.com/environment/article/glacier',
+        'url': 'https://www.iberdrola.com/sostenibilidad/derretimiento-glaciares-causas-efectos-soluciones',
         'cardSubtitle': 'El aumento de las temperaturas globales está acelerando el deshielo.',
         'cardDetailedText': 'El deshielo de los glaciares es una de las señales más visibles del cambio climático. A medida que las temperaturas globales aumentan, los glaciares alrededor del mundo están perdiendo masa a un ritmo alarmante, contribuyendo al aumento del nivel del mar.',
         'media': {
@@ -54,7 +54,7 @@ export const items = [
     {
         'title': 'Incendios Forestales',
         'cardTitle': 'El Aumento de Incendios Forestales',
-        'url': 'https://www.worldwildlife.org/threats/wildfires',
+        'url': 'https://www.cne.go.cr/reduccion_riesgo/informacion_educativa/recomendaciones_consejos/incendio_forestal.aspx#:~:text=Corresponde%20a%20un%20fuego%20que,importante%20de%20destrucci%C3%B3n%20de%20bosques.',
         'cardSubtitle': 'Los incendios forestales son cada vez más frecuentes e intensos.',
         'cardDetailedText': 'Los incendios forestales se han incrementado en frecuencia y severidad debido al cambio climático y a la gestión inadecuada de los bosques. Estos incendios devastan ecosistemas, liberan grandes cantidades de CO2 y ponen en riesgo vidas humanas.',
         'media': {
@@ -67,7 +67,7 @@ export const items = [
     {
         'title': 'Huracanes',
         'cardTitle': 'La Intensificación de los Huracanes',
-        'url': 'https://www.noaa.gov/education/resource-collections/weather-atmosphere/hurricanes',
+        'url': 'https://ecoexploratorio.org/amenazas-naturales/huracanes/que-son-los-huracanes/',
         'cardSubtitle': 'Los huracanes están volviéndose más potentes y destructivos.',
         'cardDetailedText': 'El calentamiento de los océanos y la atmósfera está causando que los huracanes sean más intensos y que generen más daños. Las marejadas ciclónicas y las lluvias torrenciales asociadas con estos fenómenos pueden devastar comunidades costeras.',
         'media': {
@@ -80,7 +80,7 @@ export const items = [
     {
         'title': 'La Gran Barrera de Coral',
         'cardTitle': 'El Blanqueamiento de la Gran Barrera de Coral',
-        'url': 'https://www.worldwildlife.org/places/great-barrier-reef',
+        'url': 'https://www.dw.com/es/gran-barrera-de-coral-sufre-blanqueamiento-jam%C3%A1s-registrado/a-68845090#:~:text=El%20blanqueamiento%20ocurre%20cuando%20el%20coral%2C%20para%20sobrevivir%20en%20las,en%20los%20%C3%BAltimos%20ocho%20a%C3%B1os.',
         'cardSubtitle': 'El cambio climático amenaza los arrecifes de coral.',
         'cardDetailedText': 'El aumento de la temperatura del océano y la acidificación están causando un blanqueamiento masivo de corales en la Gran Barrera de Coral. Este fenómeno reduce la biodiversidad y afecta los ecosistemas marinos.',
         'media': {
@@ -93,7 +93,7 @@ export const items = [
     {
         'title': 'La Sequía',
         'cardTitle': 'Las Prolongadas Sequías',
-        'url': 'https://www.un.org/en/global-issues/drought',
+        'url': 'https://www.iagua.es/respuestas/que-es-sequia',
         'cardSubtitle': 'Las sequías están afectando regiones de todo el mundo.',
         'cardDetailedText': 'Las sequías prolongadas, exacerbadas por el cambio climático, están reduciendo los suministros de agua, afectando la agricultura y causando escasez de alimentos. Esto impacta tanto a las comunidades humanas como a los ecosistemas.',
         'media': {
@@ -106,7 +106,7 @@ export const items = [
     {
         'title': 'Tsunamis',
         'cardTitle': 'La Amenaza de los Tsunamis',
-        'url': 'https://www.noaa.gov/education/resource-collections/weather-atmosphere/tsunamis',
+        'url': 'https://www.fundacionaquae.org/wiki/que-son-los-tsunamis/',
         'cardSubtitle': 'Gigantescas olas que resultan de terremotos submarinos.',
         'cardDetailedText': 'Los tsunamis son olas gigantes causadas por desplazamientos submarinos, como terremotos o erupciones volcánicas. Pueden causar devastación masiva en las zonas costeras, destruyendo infraestructuras y poniendo en riesgo vidas humanas.',
         'media': {
@@ -119,7 +119,7 @@ export const items = [
     {
         'title': 'Tornados',
         'cardTitle': 'La Fuerza Destructiva de los Tornados',
-        'url': 'https://www.noaa.gov/education/resource-collections/weather-atmosphere/tornadoes',
+        'url': 'https://www.fundacionaquae.org/wiki/como-se-forma-tornado/',
         'cardSubtitle': 'Vientos violentos en forma de embudo que tocan tierra.',
         'cardDetailedText': 'Los tornados son columnas de aire en rotación que tocan la superficie de la Tierra y son visibles como embudos. Estos fenómenos pueden destruir todo a su paso y son extremadamente peligrosos debido a su imprevisibilidad y fuerza destructiva.',
         'media': {
@@ -136,56 +136,64 @@ export const histories = [
         author: 'Boyan Slat',
         title: 'The Ocean Cleanup',
         description: 'Boyan Slat fundó "The Ocean Cleanup", una organización dedicada a desarrollar tecnologías avanzadas para eliminar el plástico de los océanos. Su innovador sistema de limpieza ha capturado toneladas de basura marina.',
-        date_story: '2013-10-01T00:00:00Z'
+        date_story: '2013-10-01T00:00:00Z',
+        url: 'https://www.theoceancleanup.com'
     },
     {
         id: '2',
         author: 'Xiuhtezcatl Martinez',
         title: 'Earth Guardians',
         description: 'Xiuhtezcatl Martinez es un joven activista ambiental y director de "Earth Guardians", una organización juvenil que lidera la lucha contra el cambio climático y la defensa de los derechos de la naturaleza.',
-        date_story: '2013-04-22T00:00:00Z'
+        date_story: '2013-04-22T00:00:00Z',
+        url: 'https://www.earthguardians.org'
     },
     {
         id: '3',
         author: 'Greta Thunberg',
         title: 'Fridays for Future',
         description: 'Greta Thunberg, una activista ambiental sueca, inició el movimiento de huelga escolar por el clima, conocido como "Fridays for Future", para exigir acciones contra el cambio climático.',
-        date_story: '2018-08-20T00:00:00Z'
+        date_story: '2018-08-20T00:00:00Z',
+        url: 'https://www.fridaysforfuture.org'
     },
     {
         id: '4',
         author: 'Vanessa Nakate',
         title: 'Rise Up Movement',
         description: 'Vanessa Nakate, una activista climática de Uganda, fundó el "Rise Up Movement" para amplificar las voces de los jóvenes africanos en la lucha contra el cambio climático y abogar por la justicia climática.',
-        date_story: '2019-01-01T00:00:00Z'
+        date_story: '2019-01-01T00:00:00Z',
+        url: 'https://www.vanessanakate.com'
     },
     {
         id: '5',
         author: 'Autumn Peltier',
         title: 'Defensora del Agua',
         description: 'Autumn Peltier, una joven indígena de Canadá, es una reconocida defensora del agua que ha luchado por el acceso a agua limpia y segura para todas las comunidades, especialmente las indígenas.',
-        date_story: '2016-08-01T00:00:00Z'
+        date_story: '2016-08-01T00:00:00Z',
+        url: 'https://www.autumnpeltier.com'
     },
     {
         id: '6',
         author: 'Arun Krishnamurthy',
         title: 'Fundador de EFI',
         description: 'Arun Krishnamurthy fundó la Fundación de Conservación Ambiental (EFI) en India, una organización que se dedica a la restauración de lagos y cuerpos de agua contaminados.',
-        date_story: '2017-05-10T00:00:00Z'
+        date_story: '2017-05-10T00:00:00Z',
+        url: 'https://www.indiaenvironment.org'
     },
     {
         id: '7',
         author: 'Patricia Espinosa',
         title: 'Líder de la ONU para el Cambio Climático',
         description: 'Patricia Espinosa, diplomática mexicana, ha sido una líder clave en las negociaciones de la ONU sobre cambio climático, trabajando para fortalecer los acuerdos internacionales y promover políticas sostenibles a nivel global.',
-        date_story: '2016-05-18T00:00:00Z'
+        date_story: '2016-05-18T00:00:00Z',
+        url: 'https://unfccc.int/about-us/the-executive-secretary'
     },
     {
         id: '8',
         author: 'Sophi Tranchell',
         title: 'Divine Chocolate',
         description: 'Sophi Tranchell es la directora de "Divine Chocolate", una empresa de comercio justo que trabaja directamente con los agricultores para producir chocolate de manera sostenible, promoviendo prácticas agrícolas ecológicas.',
-        date_story: '2015-03-01T00:00:00Z'
+        date_story: '2015-03-01T00:00:00Z',
+        url: 'https://www.divinechocolate.com'
     }
 ];
 
@@ -194,60 +202,70 @@ export const suggestions = [
         'id': '1',
         'author': 'Greta Thunberg',
         'title': 'Reducir el uso de combustibles fósiles',
-        'description': 'Una de las maneras más efectivas de combatir el cambio climático es reducir el uso de combustibles fósiles y cambiar a fuentes de energía renovables.'
+        'description': 'Una de las maneras más efectivas de combatir el cambio climático es reducir el uso de combustibles fósiles y cambiar a fuentes de energía renovables.',
+        'url': 'https://www.fridaysforfuture.org'
     },
     {
         'id': '2',
         'author': 'David Attenborough',
         'title': 'Proteger la biodiversidad',
-        'description': 'Es crucial proteger la biodiversidad y los hábitats naturales para mantener el equilibrio ecológico y asegurar la supervivencia de diversas especies.'
+        'description': 'Es crucial proteger la biodiversidad y los hábitats naturales para mantener el equilibrio ecológico y asegurar la supervivencia de diversas especies.',
+        'url': 'https://www.davidsuzuki.org'
     },
     {
         'id': '3',
         'author': 'Jane Goodall',
         'title': 'Conservar los bosques y la vida silvestre',
-        'description': 'La conservación de los bosques y la vida silvestre es esencial para preservar los ecosistemas y las especies que dependen de ellos.'
+        'description': 'La conservación de los bosques y la vida silvestre es esencial para preservar los ecosistemas y las especies que dependen de ellos.',
+        'url': 'https://www.janegoodall.org'
     },
     {
         'id': '4',
         'author': 'Leonardo DiCaprio',
         'title': 'Promover la energía limpia',
-        'description': 'Invertir en energía limpia y sostenible es una solución clave para reducir las emisiones de carbono y proteger el medio ambiente.'
+        'description': 'Invertir en energía limpia y sostenible es una solución clave para reducir las emisiones de carbono y proteger el medio ambiente.',
+        'url': 'https://www.leonardodicaprio.org'
     },
     {
         'id': '5',
         'author': 'Wangari Maathai',
         'title': 'Plantar árboles',
-        'description': 'Plantar árboles es una manera efectiva de combatir la deforestación, mejorar la calidad del aire y mitigar el cambio climático.'
+        'description': 'Plantar árboles es una manera efectiva de combatir la deforestación, mejorar la calidad del aire y mitigar el cambio climático.',
+        'url': 'https://www.greenbeltmovement.org'
     },
     {
         'id': '6',
         'author': 'Al Gore',
         'title': 'Aumentar la conciencia pública sobre el cambio climático',
-        'description': 'Educando al público sobre los efectos del cambio climático, podemos fomentar acciones colectivas para proteger el planeta.'
+        'description': 'Educando al público sobre los efectos del cambio climático, podemos fomentar acciones colectivas para proteger el planeta.',
+        'url': 'https://www.algore.com'
     },
     {
         'id': '7',
         'author': 'Vanessa Nakate',
         'title': 'Apoyar a las comunidades vulnerables',
-        'description': 'Es importante apoyar a las comunidades más afectadas por el cambio climático y trabajar juntos para crear soluciones sostenibles.'
+        'description': 'Es importante apoyar a las comunidades más afectadas por el cambio climático y trabajar juntos para crear soluciones sostenibles.',
+        'url': 'https://www.vanessanakate.com'
     },
     {
         'id': '8',
         'author': 'Sylvia Earle',
         'title': 'Proteger los océanos',
-        'description': 'Los océanos son vitales para la vida en la Tierra. Debemos tomar medidas para protegerlos de la contaminación y la sobreexplotación.'
+        'description': 'Los océanos son vitales para la vida en la Tierra. Debemos tomar medidas para protegerlos de la contaminación y la sobreexplotación.',
+        'url': 'https://www.mission-blue.org'
     },
     {
         'id': '9',
         'author': 'George Monbiot',
         'title': 'Promover una dieta basada en plantas',
-        'description': 'Adoptar una dieta basada en plantas puede reducir significativamente la huella de carbono y preservar los recursos naturales.'
+        'description': 'Adoptar una dieta basada en plantas puede reducir significativamente la huella de carbono y preservar los recursos naturales.',
+        'url': 'https://www.monbiot.com'
     },
     {
         'id': '10',
         'author': 'Christiana Figueres',
         'title': 'Implementar políticas ambientales',
-        'description': 'Es crucial que los gobiernos implementen políticas ambientales estrictas para reducir las emisiones de gases de efecto invernadero y promover la sostenibilidad.'
+        'description': 'Es crucial que los gobiernos implementen políticas ambientales estrictas para reducir las emisiones de gases de efecto invernadero y promover la sostenibilidad.',
+        'url': 'https://www.globaloptimism.com'
     }
 ];

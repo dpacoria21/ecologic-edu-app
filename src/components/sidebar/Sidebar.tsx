@@ -39,7 +39,7 @@ export const Sidebar = () => {
                 // Efecto de slide
                 className={
                     clsx(
-                        'fixed p-5 right-0 top-0 w-[500px] h-screen bg-gradient-to-br from-green-400 to-green-200 z-20 shadow-2xl transform transition-all duration-300',
+                        'fixed p-5 right-0 top-0 w-[200px] sm:w-[250px] md:w-[500px] h-screen bg-gradient-to-br from-green-400 to-green-200 z-20 shadow-2xl transform transition-all duration-300',
                         {
                             'translate-x-full': !isSideMenuOpen
                         }
